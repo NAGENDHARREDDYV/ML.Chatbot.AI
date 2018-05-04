@@ -5,12 +5,12 @@ Copyrights. Open Source contribution
 Chat bot for Buying a phone and Selecting a restro in one part of city
 
 The bot can perform the below two skills:
-• Buying a mobile phone. The user should be asked questions about Brand, Size, Accessories and other parameters. 
+• Buying a mobile phone. The user should be asked questions about Brand, Size, Accessories and other parameters.
 Action: The bot should give a final selection
-• Restaurants booking : Book a restaurant based on cuisine , cost type (cheap, medium, expensive), location ( east, west, north, south). Action: Final action booking
+• Restaurants booking : Book a restaurant based on cuisine , cost type (cheap, medium, expensive), location ( east, west, north, south).
+Action: Final action booking
 
 Reference Chatbot Architecture: Refer to "Chatbot Architecture.pdf"
-
 
 Components of a Chatbot Framework
 •Dialog Manager
@@ -22,12 +22,14 @@ Components of a Chatbot Framework
 
 
 Skills
+
 •A skill is the ability to gather information required to perform a task
 and to actually perform that task
 •“With a custom Alexa Skill, you control the requests made by the user, as well
 as the words they use to trigger the Skill.” –Amazon
 •Each of the tasks provided are a skill
 •A simple yet complete task 
+
 Requirements
 • Some parameters are required for a chatbot skill for a particular task
 • What are the “attributes”
@@ -48,9 +50,11 @@ Intent Classification
 
 Intent: get_shows
 
+
 What is playing in Lincoln Center
 What movies are showing at Angelica Film center tonight
 List movies at Film Forum after 7pm tomorrow
+
 
 Intent: get_restaurants
 Find inexpensive restaurants in Chelsea
