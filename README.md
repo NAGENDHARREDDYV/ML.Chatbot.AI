@@ -1,4 +1,7 @@
 # ML.Chatbot.AI
+[Nagendhar Reddy Vuppunuthula] reddy.vuppunuthula@gmail.com 
+Copyrights. Open Source contribution
+
 Chat bot for Buying a phone and Selecting a restro in one part of city
 
 The bot can perform the below two skills:
