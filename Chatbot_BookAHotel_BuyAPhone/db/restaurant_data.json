@@ -1,0 +1,276 @@
+{
+	"north":{
+		"indian":{
+			"expensive":{
+				"restaurants":"northIndianEx, res1, res2"
+			},
+            "medium":{
+				"restaurants":"northIndianMed, res1, res2"
+			},
+			"cheap":{
+				"restaurants":"northIndianInEx, res1, res2"
+			}
+		},
+		"chinese":{
+			"expensive":{
+				"restaurants":"northChinEx, res1, res2"
+			},
+             "medium":{
+				"restaurants":"northChinMed, res1, res2"
+			},
+			"cheap":{
+				"restaurants":"northChinInEx, res1, res2"				
+			}
+		},
+		"mexican":{
+			"expensive":{
+				"restaurants":"northMexEx, res1, res2"
+			},
+             "medium":{
+				"restaurants":"northMexMed, res1, res2"
+			},
+			"cheap":{
+				"restaurants":"northMexInEx, res1, res2"				
+			}
+		},
+		"italian":{
+			"expensive":{
+				"restaurants":"northItaEx, res1, res2"
+			},
+             "medium":{
+				"restaurants":"northItaMed, res1, res2"
+			},
+			"cheap":{
+				"restaurants":"northItaInEx, res1, res2"				
+			}
+		},
+		"thai":{
+			"expensive":{
+				"restaurants":"northThaiEx, res1, res2"
+			},
+             "medium":{
+				"restaurants":"northThaiMed, res1, res2"
+			},
+			"cheap":{
+				"restaurants":"northThaiInEx, res1, res2"				
+			}
+		},
+		"continental":{
+			"expensive":{
+				"restaurants":"northContEx, res1, res2"
+			},
+             "medium":{
+				"restaurants":"northContMed, res1, res2"
+			},
+			"cheap":{
+				"restaurants":"northContInEx, res1, res2"				
+			}
+		}
+
+	},
+	"east":{
+		"indian":{
+			"expensive":{
+				"restaurants":"eastIndianEx, res1, res2"
+			},
+             "medium":{
+				"restaurants":"eastIndianMed, res1, res2"
+			},
+			"cheap":{
+				"restaurants":"eastIndianInEx, res1, res2"
+			}
+		},
+		"chinese":{
+			"expensive":{
+				"restaurants":"eastChinEx, res1, res2"
+			},
+             "medium":{
+				"restaurants":"eastChinMed, res1, res2"
+			},
+			"cheap":{
+				"restaurants":"eastChinInEx, res1, res2"				
+			}
+		},
+		"mexican":{
+			"expensive":{
+				"restaurants":"eastMexEx, res1, res2"
+			},
+             "medium":{
+				"restaurants":"eastMexMed, res1, res2"
+			},
+			"cheap":{
+				"restaurants":"eastMexInEx, res1, res2"				
+			}
+		},
+		"italian":{
+			"expensive":{
+				"restaurants":"eastItaEx, res1, res2"
+			},
+             "medium":{
+				"restaurants":"eastItaMed, res1, res2"
+			},
+			"cheap":{
+				"restaurants":"eastItaInEx, res1, res2"				
+			}
+		},
+		"thai":{
+			"expensive":{
+				"restaurants":"eastThaiEx, res1, res2"
+			},
+             "medium":{
+				"restaurants":"eastThaiMed, res1, res2"
+			},
+			"cheap":{
+				"restaurants":"eastThaiInEx, res1, res2"				
+			}
+		},
+		"continental":{
+			"expensive":{
+				"restaurants":"eastContEx, res1, res2"
+			},
+             "medium":{
+				"restaurants":"eastContMed, res1, res2"
+			},
+			"cheap":{
+				"restaurants":"eastContInEx, res1, res2"				
+			}
+		}
+	},
+	"west":{
+		"indian":{
+			"expensive":{
+				"restaurants":"westIndianEx, res1, res2"
+			},
+             "medium":{
+				"restaurants":"westIndianMed, res1, res2"
+			},
+			"cheap":{
+				"restaurants":"westIndianInEx, res1, res2"
+			}
+		},
+		"chinese":{
+			"expensive":{
+				"restaurants":"westChinEx, res1, res2"
+			},
+             "medium":{
+				"restaurants":"westChinMed, res1, res2"
+			},
+			"cheap":{
+				"restaurants":"westChinInEx, res1, res2"				
+			}
+		},
+		"mexican":{
+			"expensive":{
+				"restaurants":"westMexEx, res1, res2"
+			},
+             "medium":{
+				"restaurants":"westMexMed, res1, res2"
+			},
+			"cheap":{
+				"restaurants":"westMexInEx, res1, res2"				
+			}
+		},
+		"italian":{
+			"expensive":{
+				"restaurants":"westItaEx, res1, res2"
+			},
+             "medium":{
+				"restaurants":"westItaMed, res1, res2"
+			},
+			"cheap":{
+				"restaurants":"westItaInEx, res1, res2"				
+			}
+		},
+		"thai":{
+			"expensive":{
+				"restaurants":"westThaiEx, res1, res2"
+			},
+             "medium":{
+				"restaurants":"westThaiMed, res1, res2"
+			},
+			"cheap":{
+				"restaurants":"westThaiInEx, res1, res2"				
+			}
+		},
+		"continental":{
+			"expensive":{
+				"restaurants":"westContEx, res1, res2"
+			},
+             "medium":{
+				"restaurants":"westContMed, res1, res2"
+			},
+			"cheap":{
+				"restaurants":"westContInEx, res1, res2"				
+			}
+		}
+	},
+	"south":{
+		"indian":{
+			"expensive":{
+				"restaurants":"southIndianEx, res1, res2"
+			},
+             "medium":{
+				"restaurants":"southIndianMed, res1, res2"
+			},
+			"cheap":{
+				"restaurants":"southIndianInEx, res1, res2"
+			}
+		},
+		"chinese":{
+			"expensive":{
+				"restaurants":"southChinEx, res1, res2"
+			},
+             "medium":{
+				"restaurants":"southChinMed, res1, res2"
+			},
+			"cheap":{
+				"restaurants":"southChinInEx, res1, res2"				
+			}
+		},
+		"mexican":{
+			"expensive":{
+				"restaurants":"southMexEx, res1, res2"
+			},
+             "medium":{
+				"restaurants":"southMexMed, res1, res2"
+			},
+			"cheap":{
+				"restaurants":"southMexInEx, res1, res2"				
+			}
+		},
+		"italian":{
+			"expensive":{
+				"restaurants":"southItaEx, res1, res2"
+			},
+             "medium":{
+				"restaurants":"southItaMed, res1, res2"
+			},
+			"cheap":{
+				"restaurants":"southItaInEx, res1, res2"				
+			}
+		},
+		"thai":{
+			"expensive":{
+				"restaurants":"southThaiEx, res1, res2"
+			},
+             "medium":{
+				"restaurants":"southThaiMed, res1, res2"
+			},
+			"cheap":{
+				"restaurants":"southThaiInEx, res1, res2"				
+			}
+		},
+		"continental":{
+			"expensive":{
+				"restaurants":"southContEx, res1, res2"
+			},
+             "medium":{
+				"restaurants":"southContMed, res1, res2"
+			},
+			"cheap":{
+				"restaurants":"southContInEx, res1, res2"				
+			}
+		}
+        
+	}
+}

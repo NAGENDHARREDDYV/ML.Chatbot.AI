@@ -1,0 +1,80 @@
+{
+	"apple":{
+		"4.7":{
+			"2gb":{"mobiles":"iphone 7, iphone 8"}
+		},
+		"5.5":{
+			"2gb":{"mobiles":"iphone 7 plus, iphone 8 plus"}
+		},
+		"5.8":{
+			"3gb":{"mobiles":"iphone X"}
+		}
+	},
+
+	"samsung": {
+		"4.7":{
+			"2gb":{"mobiles":"j1"}
+		},
+		"5.5":{
+			"4gb":{"mobiles":"s8, s9"}
+		},
+		"5.8":{
+			"8gb":{"mobiles":"s8 plus, s9 plus"}
+		}
+	},
+    "xiaomi": {
+		"4.7":{
+			"2gb":{"mobiles":"Mi5A"}
+		},
+		"5.5":{
+			"4gb":{"mobiles":"Mi A1, Mi4, Mi5"}
+		},
+		"5.8":{
+			"8gb":{"mobiles":"Note5, Max"}
+		}
+	},
+	"oneplus": {
+		"4.7":{
+			"2gb":{"mobiles":"oneplus2t"}
+		},
+		"5.5":{
+			"4gb":{"mobiles":"Oneplus 4t"}
+		},
+		"5.8":{
+			"8gb":{"mobiles":"oneplus 5t"}
+		}
+	},
+    "htc": {
+		"4.7":{
+			"2gb":{"mobiles":"htc one"}
+		},
+		"5.5":{
+			"4gb":{"mobiles":"htc m8"}
+		},
+		"5.8":{
+			"8gb":{"mobiles":"htc desire 820"}
+		}
+	},
+    "nokia": {
+		"4.7":{
+			"2gb":{"mobiles":"Nokia dabba phone"}
+		},
+		"5.5":{
+			"4gb":{"mobiles":"Nokia 6600 "}
+		},
+		"5.8":{
+			"8gb":{"mobiles":"Nokia Lumia,Nokia Lumia 820"}
+		}
+	},
+    "oppo": {
+		"4.7":{
+			"2gb":{"mobiles":"oppo normal"}
+		},
+		"5.5":{
+			"4gb":{"mobiles":"oppo selfie"}
+		},
+		"5.8":{
+			"8gb":{"mobiles":"oppo camera,oppo dual camera"}
+		}
+	}
+}
